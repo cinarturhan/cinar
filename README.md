@@ -6,13 +6,10 @@ MSc in Engineering, UT Austin, 2024 🎓 (almost there) <br>
 PhD Student in Engineering, UT Austin, 2028 <br>
 
 ## Research Interests
-* High performance computing
+* High-performance computing
 * Digital image processing
-* Machine learning for geosciences
-* Well integrity analysis
+* Machine learning based abandoned well integrity analysis
 * Geothermal energy
 
 ## Contact
-[LinkedIn](linkedin.com/in/cinarturhan/)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=wVyScrYAAAAJ)
-[ORCID](https://orcid.org/0000-0003-2533-7016)
+[LinkedIn](linkedin.com/in/cinarturhan/)  -- [Google Scholar](https://scholar.google.com/citations?hl=en&user=wVyScrYAAAAJ) -- [ORCID](https://orcid.org/0000-0003-2533-7016)
