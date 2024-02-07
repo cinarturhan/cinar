@@ -12,4 +12,4 @@ PhD Student in Engineering, UT Austin, 2028 <br>
 * Geothermal energy
 
 ## Contact
-[LinkedIn](linkedin.com/in/cinarturhan/)  -- [Google Scholar](https://scholar.google.com/citations?hl=en&user=wVyScrYAAAAJ) -- [ORCID](https://orcid.org/0000-0003-2533-7016)
+[LinkedIn](linkedin.com/in/cinarturhan/)  - [Google Scholar](https://scholar.google.com/citations?hl=en&user=wVyScrYAAAAJ) - [ORCID](https://orcid.org/0000-0003-2533-7016)
