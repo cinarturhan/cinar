@@ -1,9 +1,9 @@
 # About
 I am Çınar Turhan 🇹🇷. I am a Graduate Research Assistant at The University of Texas at Austin, in Prodanovic Research Group.
 
-BSc in Engineering, METU, 2022 🎓 \\
-MSc in Engineering, UT Austin, 2024 🎓 (almost there) \\
-PhD Student in Engineering, UT Austin, 2028 \\
+BSc in Engineering, METU, 2022 🎓 <br>
+MSc in Engineering, UT Austin, 2024 🎓 (almost there) <br>
+PhD Student in Engineering, UT Austin, 2028 <br>
 
 ## Research Interests
 * High performance computing
