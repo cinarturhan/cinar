@@ -1,5 +1,9 @@
 # About
-I am Çınar Turhan 🇹🇷. I am a Graduate Research Assistant at The University of Texas at Austin, in Prodanovic Research Group.
+<img align="right" width="170" height="170" src="https://github.com/cinarturhan/cinarturhan/assets/105860395/f36efad2-25ef-4f47-ab4a-de891183ba61">
+
+I am Çınar Turhan 🇹🇷. <br>
+I am a Graduate Research Assistant at The University of Texas at Austin, in Prodanovic Research Group.
+
 
 BSc in Engineering, METU, 2022 🎓 <br>
 MSc in Engineering, UT Austin, 2024 🎓 (almost there) <br>
@@ -13,6 +17,3 @@ PhD Student in Engineering, UT Austin, 2028 <br>
 
 ## Contact
 [LinkedIn](linkedin.com/in/cinarturhan/)  - [Google Scholar](https://scholar.google.com/citations?hl=en&user=wVyScrYAAAAJ) - [ORCID](https://orcid.org/0000-0003-2533-7016)
-
-![peach-goma-pc-headset](https://github.com/cinarturhan/cinarturhan/assets/105860395/f36efad2-25ef-4f47-ab4a-de891183ba61)
-
