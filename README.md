@@ -1,4 +1,4 @@
-# About
+## About
 <img align="right" width="170" height="170" src="https://github.com/cinarturhan/cinarturhan/assets/105860395/f36efad2-25ef-4f47-ab4a-de891183ba61">
 
 I am Çınar Turhan 🇹🇷. <br>
