@@ -12,6 +12,7 @@ PhD Student in Engineering, UT Austin, 2028 <br>
 ## Research Interests
 * High-performance computing
 * Digital image processing (Check out [Digital Porous Media Portal](https://www.digitalrocksportal.org/))
+* Data curation
 * Machine learning based abandoned well integrity analysis
 * Geothermal energy
 
