@@ -1,5 +1,5 @@
 ## About
-<img align="right" width="160" height="160" src="https://github.com/cinarturhan/cinarturhan/assets/105860395/f36efad2-25ef-4f47-ab4a-de891183ba61">
+<img align="right" width="150" height="150" src="https://github.com/cinarturhan/cinarturhan/assets/105860395/f36efad2-25ef-4f47-ab4a-de891183ba61">
 
 I am Çınar Turhan 🇹🇷. <br>
 I am a Graduate Research Assistant at The University of Texas at Austin, in Prodanovic Research Group.
